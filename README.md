@@ -41,7 +41,7 @@ GroceryShare is an innovative React Native application designed to revolutionize
 
 ### Mobile Application (React Native)
 
-- **Framework**: React Native
+- **Framework**: React Native with tailwind
 - **State Management**: Redux Toolkit
 - **UI Components**: React Native Paper
 - **Navigation**: React Navigation
