@@ -65,7 +65,7 @@ GroceryShare is an innovative React Native application designed to revolutionize
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/GroceryShare.git
+git clone https://github.com/srujanGowda08/GroceryShare.git
 cd GroceryShare
 ```
 
@@ -205,10 +205,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **Website**: [groceryshare.app](https://groceryshare.app)
-- **Email**: support@groceryshare.app
-- **Twitter**: [@GroceryShare](https://twitter.com/GroceryShare)
-- **Discord**: [Join our community](https://discord.gg/groceryshare)
+- **Website**: [TechnifyZ](https://technify-z.vercel.app/)
+- **Email**: srujan0821@gmail.com
+- **Linkedin**: [@TechnifyZ](https://www.linkedin.com/company/technifyz)
+- **Discord**: [Join our community](https://discord.gg/GZ9nUZyx)
 
 ---
 
