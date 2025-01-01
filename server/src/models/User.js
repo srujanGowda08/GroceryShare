@@ -8,6 +8,7 @@ const UserSchema = new mongoose.Schema({
   name: { type: String, required: true },
   lists: [{ type: mongoose.Schema.Types.ObjectId, ref: "List" }],
   createdAt: { type: Date, default: Date.now },
+  profilePic:{type: String,default:"this is string"}
 });
 
 UserSchema.pre("save", async function (next) {
